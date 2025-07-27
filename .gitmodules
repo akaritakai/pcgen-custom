@@ -1,0 +1,6 @@
+[submodule "pcgen"]
+	path = pcgen
+	url = git@github.com:akaritakai/pcgen.git
+[submodule "pcgen-homebrew"]
+	path = pcgen-homebrew
+	url = git@github.com:akaritakai/pcgen-homebrew.git
